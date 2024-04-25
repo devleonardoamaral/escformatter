@@ -1,0 +1,15 @@
+# Arquivos de distribuição gerados pelo Wheel
+/dist
+/escformatter.egg-info
+/build
+
+# Arquivos de cache gerados pelo Python
+__pycache__/
+
+# Arquivos contendo credenciais sensíveis
+*.whl
+*.pem
+*.pypirc
+*.key
+*.crt
+*.csr
